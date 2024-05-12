@@ -1,0 +1,3 @@
+git config --global github.accesstoken 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
+then run ->  composer require magento/pwa
+
